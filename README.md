@@ -1,4 +1,4 @@
-# 🚀 LeetCode Problem Solving
+# 🚀 LeetCode Problem Solving [C++]
 
 🎉 Welcome to the **LeetCode Problem Solving** repository! This is a **community-driven project** aimed at making problem-solving fun and encouraging consistent coding practice. Let's grow together, sharpen our skills, and make coding an enjoyable experience! 💪
 
@@ -83,6 +83,21 @@ To streamline your contributions and make it easier to push your LeetCode soluti
 
 By following these steps, you’ll contribute your solutions effortlessly and keep this repository rich with diverse problem-solving approaches! Happy coding! 🎈
 
+### 🔍 **Refer to the Example Folder**
+
+For a clear understanding of how to format your contributions and organize your solutions, please refer to the **`TwoSum`** folder in the repository.
+
+**Why Refer to the Example Folder?**
+- ⚠️ **The Solution Code Should be in C/C++ only**.
+- 📋 **Make a Proper ReadMe file**: View a sample problem and solution.
+- 🗂️ **LeetCode Solution in a Seperate C++ File**: Follow the structure and format used in the example.
+
+**How to Use the Example Folder:**
+1. **Navigate to the Example Folder**: Look for the `TwoSum` folder in the repository.
+2. **Review the Sample**: Check the provided problem and solution to understand the expected format.
+3. **Align Your Submission**: Use the format and organization demonstrated in the example to ensure consistency.
+
+By following the guidelines in the `TwoSum` folder, you'll help maintain a well-structured and organized repository. Thank you for contributing and helping us keep the project aligned! 🌟
 
 ## 🌏 Community Guidelines
 
